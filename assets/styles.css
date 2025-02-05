@@ -3,7 +3,7 @@ body {
     --gutter: calc(3 x var(--base-size));
    
     --color--primary: #fbfbfb;
-    --color--secondary:#2D6115;
+    --color--secondary:#2D6116;
     --color--background:BLACK; 
     
     --title-size: 100px;
