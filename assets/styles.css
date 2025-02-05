@@ -30,6 +30,7 @@ body {
     block-size: 75vh;
     padding-top:  var(--base-size);
     padding-bottom: calc(2 * var(--base-size)
+    
    }
 
  
